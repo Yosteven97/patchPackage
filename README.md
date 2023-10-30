@@ -1,5 +1,7 @@
 # patchPackage
 
+reference: https://www.npmjs.com/package/patch-package
+
 How it works
 1. create empty folder.
 2. npm init.
